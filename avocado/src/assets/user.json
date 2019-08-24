@@ -3,7 +3,9 @@
     {
       "username": "tsuyu",
       "password": "onceortwice",
-      "photos": ["google.ca"],
+      "photos": [
+        "https://i.pinimg.com/736x/43/6a/f9/436af91fd180638a1f2b345f4b720d80.jpg"
+      ],
       "description": "i love dancing",
       "numTokens": 69,
       "likes": ["jimin"]
@@ -11,7 +13,9 @@
     {
       "username": "jimin",
       "password": "onceortwice",
-      "photos": ["google.ca"],
+      "photos": [
+        "https://i.pinimg.com/736x/43/6a/f9/436af91fd180638a1f2b345f4b720d80.jpg"
+      ],
       "description": "i love dancing",
       "numTokens": 69,
       "likes": ["tsuyu"]
