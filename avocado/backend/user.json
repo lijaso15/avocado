@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "tsuyu",
+      "password": "onceortwice",
+      "photos": ["google.ca"],
+      "description": "i love dancing",
+      "numTokens": 69,
+      "likes": ["jimin"]
+    },
+    {
+      "username": "jimin",
+      "password": "onceortwice",
+      "photos": ["google.ca"],
+      "description": "i love dancing",
+      "numTokens": 69,
+      "likes": ["tsuyu"]
+    }
+  ]
+}
